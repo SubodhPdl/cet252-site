@@ -1,0 +1,4 @@
+baseURL = 'https://YOUR-STE-NAME.netlify.app/'
+languageCode = 'en-us'
+title = 'My CET252 Portfolio'
+theme = 'paper'
