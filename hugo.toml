@@ -1,4 +1,4 @@
-baseURL = 'https://glittering-rugelach-cc81d1.netlify.app'
+baseURL = 'https://glittering-rugelach-cc81d1.netlify.app/'
 languageCode = 'en-us'
 title = 'My CET252 Portfolio'
 theme = 'paper'
