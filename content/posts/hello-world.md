@@ -5,6 +5,6 @@ draft = false
 +++
 
 Welcome to my cCET252 Portfolio site build with hugo and developed via netlify.
+heyyyyyyyy im subodh
 
-
-This site demonstrate CI/CD- when I push changes to github, netlifly rebuilds and deploys the site  
+This site demonstrate CI/CD- when I push changes to github, netlifly rebuilds and deploys the site  s
