@@ -5,6 +5,9 @@ draft = false
 +++
 
 Welcome to my cCET252 Portfolio site build with hugo and developed via netlify.
-heyyyyyyyy im subodh
+heyyyyyyyy im subodh Poudel.
 
 Updated: this site is lively being host in  netlfiy. 
+
+This site is sucessfully being hosted
+s
